@@ -1,0 +1,18 @@
+module Base
+{
+    /************************ Mechanic Items ************************/
+    item Jumpstarter
+    {
+        DisplayCategory = Tool,
+        Weight	=	5,
+        Type	=	Drainable,
+	    UseDelta = 0.2,
+	    DisappearOnUse = FALSE,
+	    UseWhileEquipped	=	FALSE,
+        DisplayName	=	Battery Jumpstarter,
+        Icon	=	Jumpstarter,
+        MechanicsItem = TRUE,
+	    Tooltip = Tooltip_item_Jumpstarter,
+        WorldStaticModel = Jumpstarter_Ground,
+    }
+}

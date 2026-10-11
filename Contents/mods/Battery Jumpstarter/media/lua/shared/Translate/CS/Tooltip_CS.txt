@@ -1,0 +1,13 @@
+Tooltip_CS = {
+	-- Item tooltip
+	Tooltip_item_Jumpstarter = "Muze byt pouzit k nastartovani autobaterie (Jumpstart)",
+	Tooltip_generator_disc = "Nabije Jumpstarter autobaterie",
+	Tooltip_fuelUnit = "1 jednotka paliva",
+	Tooltip_fullyCharged = "Jumpstarter autobaterie je jiz plne nabit",
+	Tooltip_chanceOfSuccess = "Sance uspechu",
+	Tooltip_chargedJumpstarter = "Nabity Jumpstarter autobaterie",
+	Tooltip_remainingUses = "Zbyvajici pouziti Jumpstarteru autobaterie",
+	Tooltip_depBattery = "Stav baterie musí být pod 10%",
+	Tooltip_attempt = "Pokousim se o Jumpstartovani autobaterie...",
+	Tooltip_jumpSAction = "Jumpstartovani autobaterie",
+}

@@ -1,0 +1,29 @@
+module BatteryJumpstarter
+{
+    imports
+    {
+        Base
+    }
+
+    sound BatteryJumpstarter_Beep
+    {
+        category = Item,
+        is3D = true,
+
+        clip
+        {
+            file = media/sound/beep.ogg, distanceMax = 10, volume = 1
+        }
+    }
+
+    sound BatteryJumpstarter_Zap
+    {
+        category = Item,
+        is3D = true,
+
+        clip
+        {
+            file = media/sound/zap.ogg, distanceMax = 10, volume = 1
+        }
+    }
+}

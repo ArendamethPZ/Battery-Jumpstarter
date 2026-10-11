@@ -1,0 +1,11 @@
+{
+    "Sandbox_BatteryJumpstarter": "Battery Jumpstarter",
+    "Sandbox_BatteryJumpstarter_SuccessChance": "Jumpstart success chance",
+    "Sandbox_BatteryJumpstarter_SuccessChance_tooltip": "Chance (in percent) that using a jumpstarter on a car battery succeeds.",
+    "Sandbox_BatteryJumpstarter_BatteryChargeAfterJumpstart": "Battery charge after jumpstart",
+    "Sandbox_BatteryJumpstarter_BatteryChargeAfterJumpstart_tooltip": "Charge (in percent) a car battery is set to after a successful jumpstart.",
+    "Sandbox_BatteryJumpstarter_MaxBatteryChargeToJumpstart": "Max battery charge to jumpstart",
+    "Sandbox_BatteryJumpstarter_MaxBatteryChargeToJumpstart_tooltip": "A car battery can only be jumpstarted if its charge (in percent) is at or below this value.",
+    "Sandbox_BatteryJumpstarter_FuelPerCharge": "Generator fuel per charge",
+    "Sandbox_BatteryJumpstarter_FuelPerCharge_tooltip": "Litres of generator fuel consumed to recharge one jumpstarter use. A full generator holds 10 L."
+}

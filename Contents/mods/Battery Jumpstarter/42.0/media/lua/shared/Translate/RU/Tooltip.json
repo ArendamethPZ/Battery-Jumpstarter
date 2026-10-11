@@ -1,0 +1,10 @@
+{
+    "Tooltip_item_Jumpstarter": "Подходит для кикстарта аккумулятора авто",
+    "Tooltip_generator_disc": "Заряжает кикстартер",
+    "Tooltip_fullyCharged": "Кикстартер уже полностью заряжен",
+    "Tooltip_chanceOfSuccess": "Шанс успеха",
+    "Tooltip_chargedJumpstarter": "Кикстартер заряжен",
+    "Tooltip_remainingUses": "Оставшее количество использований",
+    "Tooltip_attempt": "Пытаемся кикстартнуть аккумулятор...",
+    "Tooltip_jumpSAction": "Кикстартуем аккумулятор"
+}

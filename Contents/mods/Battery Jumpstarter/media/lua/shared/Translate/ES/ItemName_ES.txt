@@ -1,0 +1,3 @@
+ItemName_ES = {
+    ItemName_Base.Jumpstarter = "Arrancador de baterías de vehículos",
+}

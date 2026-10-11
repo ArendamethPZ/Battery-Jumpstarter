@@ -1,0 +1,9 @@
+module Base
+{
+	model Jumpstarter_Ground
+    {
+        mesh = WorldItems/Jumpstarter,
+        scale = 0.001,
+        texture = JumpstarterTexture,
+    }
+}

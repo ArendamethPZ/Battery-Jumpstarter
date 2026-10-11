@@ -1,0 +1,13 @@
+Tooltip_ES = {
+	-- Item tooltip
+	Tooltip_item_Jumpstarter = "Puede ser usado para arrancar una batería de vehículo",
+	Tooltip_generator_disc = "Recarga el arrancador de baterías para vehículos",
+	Tooltip_fuelUnit = "1 unidad de gasolina",
+	Tooltip_fullyCharged = "¡El arrancador de baterías para vehículos ya está completamente cargado!",
+	Tooltip_chanceOfSuccess = "Chances de arranque",
+	Tooltip_chargedJumpstarter = "Arrancador de baterías de vehículos cargado",
+	Tooltip_remainingUses = "Usos restantes del arrancador de baterías de vehículos",
+	Tooltip_depBattery = "La carga de la batería del vehículo debe ser menor al 10%",
+	Tooltip_attempt = "Intentando hacer arrancar la batería...",
+	Tooltip_jumpSAction = "Utilizando el arrancador de baterías de vehículos",
+}

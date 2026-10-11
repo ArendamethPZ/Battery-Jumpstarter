@@ -1,0 +1,10 @@
+{
+    "Tooltip_item_Jumpstarter": "Moze byc uzyty do naladowania akumulatora samochodowego",
+    "Tooltip_generator_disc": "Naladowywuje prostownik do akumulatora",
+    "Tooltip_fullyCharged": "Prostownik jest juz w pelni naladowany",
+    "Tooltip_chanceOfSuccess": "Szansa powodzenia",
+    "Tooltip_chargedJumpstarter": "Naladowany Prostownik",
+    "Tooltip_remainingUses": "Pozostale uzycia prostownika",
+    "Tooltip_attempt": "Proba naladowania akumulatora...",
+    "Tooltip_jumpSAction": "Naladowywanie Akumulatora"
+}

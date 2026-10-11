@@ -1,0 +1,3 @@
+ItemName_CS = {
+    ItemName_Base.Jumpstarter = "Jumpstarter autobaterie",
+}

@@ -1,0 +1,4 @@
+ContextMenu_PL = {
+	ContextMenu_BatteryJumpstarter = "Naladuj",
+	ContextMenu_rechargeOption = "Naladuj prostownik",
+}

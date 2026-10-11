@@ -1,0 +1,29 @@
+VERSION = 1,
+
+option BatteryJumpstarter.SuccessChance
+{
+    type = integer, min = 0, max = 100, default = 75,
+    page = BatteryJumpstarter,
+    translation = BatteryJumpstarter_SuccessChance,
+}
+
+option BatteryJumpstarter.BatteryChargeAfterJumpstart
+{
+    type = integer, min = 1, max = 100, default = 15,
+    page = BatteryJumpstarter,
+    translation = BatteryJumpstarter_BatteryChargeAfterJumpstart,
+}
+
+option BatteryJumpstarter.MaxBatteryChargeToJumpstart
+{
+    type = integer, min = 0, max = 100, default = 10,
+    page = BatteryJumpstarter,
+    translation = BatteryJumpstarter_MaxBatteryChargeToJumpstart,
+}
+
+option BatteryJumpstarter.FuelPerCharge
+{
+    type = double, min = 0.0, max = 10.0, default = 0.1,
+    page = BatteryJumpstarter,
+    translation = BatteryJumpstarter_FuelPerCharge,
+}

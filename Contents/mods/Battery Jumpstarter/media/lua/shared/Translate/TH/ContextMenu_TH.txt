@@ -1,0 +1,4 @@
+ContextMenu_TH = {
+	ContextMenu_BatteryJumpstarter = "จัมป์สตาร์ท",
+	ContextMenu_rechargeOption = "ชาร์จเครื่องจัมป์สตาร์ท",
+}

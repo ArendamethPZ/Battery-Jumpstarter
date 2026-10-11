@@ -1,0 +1,6 @@
+name=Battery Jumpstarter
+poster=poster.png
+id=BatteryJumpstarter
+description=Adds a Battery Jumpstarter item, which can be used to jumpstart fully depleted car batteries
+author=Arendameth
+icon=icon.png

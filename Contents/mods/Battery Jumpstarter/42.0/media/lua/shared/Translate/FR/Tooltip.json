@@ -1,0 +1,10 @@
+{
+    "Tooltip_item_Jumpstarter": "Peut-être utilisé pour recharger une batterie de voiture en urgence",
+    "Tooltip_generator_disc": "Recharge le démarreur d'urgence",
+    "Tooltip_fullyCharged": "Le démarreur a déjà une batterie pleine",
+    "Tooltip_chanceOfSuccess": "Chance de succès",
+    "Tooltip_chargedJumpstarter": "Démarreur d'urgence chargée",
+    "Tooltip_remainingUses": "Utilisations restantes du démarreur",
+    "Tooltip_attempt": "Tentative de booster la batterie...",
+    "Tooltip_jumpSAction": "Booster la batterie"
+}

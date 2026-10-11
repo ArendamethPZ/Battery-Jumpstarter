@@ -1,0 +1,13 @@
+Tooltip_EN = {
+	-- Item tooltip
+	Tooltip_item_Jumpstarter = "Can be used to jumpstart a car battery",
+	Tooltip_generator_disc = "Recharges the Battery Jumpstarter",
+	Tooltip_fuelUnit = "1 unit of fuel",
+	Tooltip_fullyCharged = "Battery Jumpstarter is already fully charged",
+	Tooltip_chanceOfSuccess = "Chance of success",
+	Tooltip_chargedJumpstarter = "Charged Battery Jumpstarter",
+	Tooltip_remainingUses = "Remaining jumpstarter uses",
+	Tooltip_depBattery = "Battery must be below 10%",
+	Tooltip_attempt = "Attempting to jumpstart the battery...",
+	Tooltip_jumpSAction = "Jumpstarting the battery",
+}

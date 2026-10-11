@@ -1,0 +1,72 @@
+version=1
+id=2869043793
+title=Battery Jumpstarter
+description=[h1]Description[/h1]
+description=Forgot your car lights on and now your battery is dead? Worry no more! The brand new Stanley Portable Jumpstarter will recharge your battery up to 15% and save the day!
+description=
+description=[h1]Q&A[/h1]
+description=[list]
+description=    [*][b]How does the battery jumpstarter work?[/b]
+description=    The item can be used only on car batteries that are below 10%. It has a 75% chance of putting the battery at 15%. The item is a drainable that has 5 uses. After all of the uses are depleted, you'll need to recharge it at a generator to use it again. It'll consume one unit of fuel per one recharge. That means to fully recharge the item, it'll consume 5 fuel units. The item is portable and doesn't need you to be next to a generator to use it.
+description=
+description=    [*][b]Where can I find the jumpstarter?[/b]
+description=    The item may spawn in mechanic shops, car supply stores, garages, gigamarts, and vehicles trunks.
+description=
+description=    [*][b]How do I use the battery jumpstarter?[/b]
+description=    Go to your vehicle mechanics window, right click on the battery, and click [b]"Jumpstart"[/b]
+description=
+description=    [*][b]How do I recharge the battery jumpstarter?[/b]
+description=    Go to a generator. Ensure that its currently turned on, then right click it and click [b]"Recharge Jumpstarter"[/b]
+description=[/list]
+description=
+description=[h1]Compatibility[/h1]
+description=[list]
+description=    [*][b]Other Mods[/b] - Incompatible with Snake's Modpack's Pimp My Ride
+description=    [*][b]Game Version[/b] - Tested and works on 41.73+. Not tested on earlier versions.
+description=    [*][b]Multiplayer[/b] - Works in multiplayer.
+description=    [*][b]Pre-existing saves[/b] - Can be added to your pre-existing save, although the item most likely won't show up in areas you've already looted.
+description=[/list]
+description=
+description=[h1]Known Bugs/Issues[/h1]
+description=No known bugs currently.
+description=Feel free to report any bugs you may encounter so they can be fixed as soon as possible!
+description=
+description=[h1]Translations[/h1]
+description=Translations are in progress for this mod. If you'd like to contribute to translating it to your native language, the help would be greatly appreciated and you'll be credited on the mod page! Feel free to head over to the [url=https://steamcommunity.com/workshop/filedetails/discussion/2869043793/6039921111944041172/]translations discussion[/url], or simply join our discord server.
+description=
+description=Full information regarding available languages is available in the [url=https://steamcommunity.com/workshop/filedetails/discussion/2869043793/6039921111944041172/]translations discussion[/url] as well.
+description=
+description=[h1]Links[/h1]
+description=[url=https://discord.gg/ekaZW6jD3E][img]https://i.ibb.co/rF4BGFb/discord-Button.png[/img][/url] - Join us on Discord
+description=[url=https://ko-fi.com/arendameth][img]https://i.ibb.co/wW3SxVd/ko-fi-Button.png[/img][/url] - Fuel my caffeine addiction, please?
+description=
+description=[h1]Feedback[/h1]
+description=Whether it is a suggestion, feedback, or something else you've got on mind, it'd be hugely appreciated!
+description=
+description=[img]https://i.ibb.co/Y2qkMXV/Rate-Fav.gif[/img]
+description=
+description=[h1]Check out my other mods![/h1]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2867163008][img]https://i.ibb.co/JxB0fJx/EHAN-PRV.png[/img][/url] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2871038554][img]https://i.ibb.co/1TVxdnV/BIT-PRV.png[/img][/url] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2946364542][img]https://i.ibb.co/PzsMns0/SC-PRV.png[/img][/url] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3000924731][img]https://i.ibb.co/wSsfKGd/IM-PRV.png[/img][/url]
+description=
+description=[h1]Credits[/h1]
+description=[list]
+description=    [*]Mod is originally [url=https://steamcommunity.com/profiles/76561198411893076]Davidoff[/url]'s idea
+description=    [*]Thanks to [url=https://steamcommunity.com/profiles/76561198411893076]Davidoff[/url], [url=https://steamcommunity.com/id/Parthonax420/]Parthonax[/url], and the [url=https://discord.com/invite/theindiestone]Project Zomboid discord community[/url] who immensely helped throughout the creation of this mod.
+description=    [*]Base model by [url=https://steamcommunity.com/profiles/76561199187005617/]TheHolyElmo[/url]
+description=    [*]French translation by [url=https://steamcommunity.com/profiles/76561199187005617/]TheHolyElmo[/url] & [url=https://steamcommunity.com/id/Pgmbru]Pgmbru[/url]
+description=    [*]Russian translation by [url=https://steamcommunity.com/profiles/76561198998208791/]Razno0[/url]
+description=    [*]Polish translation by [url=https://steamcommunity.com/profiles/76561198244086138]MrKleenexx[/url]
+description=    [*]Czech translation by [url=https://steamcommunity.com/profiles/76561198081796484/]KenshiCz[/url]
+description=    [*]Korean translation by [url=https://steamcommunity.com/id/76561198026734349232]Kim hyong jik[/url]
+description=    [*]Spanish (ES) translation by [url=https://steamcommunity.com/id/XpaDD3r]XpaDDer[/url]
+description=    [*]Thai translation by [url=https://steamcommunity.com/id/safc]Riko Prushka[/url]
+description=    [*]Sound effects from [url=https://pixabay.com/]Pixabay[/url]
+description=[/list]
+description=
+description=[quote]This mod's permissions fall under TIS's policy [url=https://theindiestone.com/forums/index.php?/topic/2530-mod-permissions/#comment-36478]Ask for permission[/url]
+description=
+description=This mod can only be added to and extended with the express permission from the original creator. Having received permission, credit must be given to the original creator, both within the files of the mod and wherever the mod roams online.
+description=
+description=If no permission is received you may not alter the mod, and it must be treated as a mod that is 'On Lockdown'.[/quote]
+tags=Build 41;Items;Realistic;Vehicles
+visibility=public

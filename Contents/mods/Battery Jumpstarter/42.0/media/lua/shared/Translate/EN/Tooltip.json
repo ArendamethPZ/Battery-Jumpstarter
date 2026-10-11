@@ -1,0 +1,12 @@
+{
+    "Tooltip_item_Jumpstarter": "Can be used to jumpstart a car battery",
+    "Tooltip_generator_disc": "Recharges the Battery Jumpstarter",
+    "Tooltip_fullyCharged": "Battery Jumpstarter is already fully charged",
+    "Tooltip_chanceOfSuccess": "Chance of success",
+    "Tooltip_chargedJumpstarter": "Charged Battery Jumpstarter",
+    "Tooltip_remainingUses": "Remaining jumpstarter uses",
+    "Tooltip_attempt": "Attempting to jumpstart the battery...",
+    "Tooltip_jumpSAction": "Jumpstarting the battery",
+    "Tooltip_BatteryJumpstarter_BatteryCharge": "Battery charge must be %1 or lower (currently %2)",
+    "Tooltip_BatteryJumpstarter_FuelPerCharge": "Uses %1 L of generator fuel per charge"
+}

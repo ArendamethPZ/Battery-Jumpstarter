@@ -1,0 +1,10 @@
+{
+    "Tooltip_item_Jumpstarter": "방전된 차량 배터리를 충전 할 수 있습니다",
+    "Tooltip_generator_disc": "점프스타터 재충전 하기",
+    "Tooltip_fullyCharged": "점프스타터가 이미 충전되어 있습니다",
+    "Tooltip_chanceOfSuccess": "성공할 확률",
+    "Tooltip_chargedJumpstarter": "점프스타터가 충전됨",
+    "Tooltip_remainingUses": "점프스타터 사용 가능 횟수",
+    "Tooltip_attempt": "점프스타터를 사용하는중",
+    "Tooltip_jumpSAction": "차량 배터리를 충전중입니다"
+}

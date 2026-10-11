@@ -1,0 +1,13 @@
+Tooltip_TH = {
+	-- Item tooltip
+	Tooltip_item_Jumpstarter = "ใช้เพื่อจัมป์สตาร์ทแบตเตอรี่รถยนต์ได้",
+	Tooltip_generator_disc = "ชาร์จแบตเตอรี่เครื่องจัมป์สตาร์ท",
+	Tooltip_fuelUnit = "น้ำมัน 1 หน่วย",
+	Tooltip_fullyCharged = "เครื่องจัมป์สตาร์ทแบตเตอรี่รถยนต์ได้รับการชาร์จเต็มแล้ว",
+	Tooltip_chanceOfSuccess = "โอกาสสำเร็จ",
+	Tooltip_chargedJumpstarter = "เครื่องจัมป์สตาร์ทแบตเตอรี่รถยนต์ที่ชาร์จแล้ว",
+	Tooltip_remainingUses = "จำนวนการจัมป์สตาร์ทคงเหลือ",
+	Tooltip_depBattery = "แบตเตอรี่ต้องต่ำกว่า 10%",
+	Tooltip_attempt = "กำลังพยายามจัมป์สตาร์ทแบตเตอรี่...",
+	Tooltip_jumpSAction = "กำลังจัมป์สตาร์ทแบตเตอรี่",
+}
